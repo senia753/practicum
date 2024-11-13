@@ -1,2 +1,2 @@
 # practicum
-repository for tasks from Yadex Practicum course 'Backend Developer'
+repository for tasks from Yandex Practicum course 'Backend Developer'
